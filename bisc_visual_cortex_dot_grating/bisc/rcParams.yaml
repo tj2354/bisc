@@ -1,0 +1,4 @@
+# path are relative to repo root
+stimulus_path: stimulus
+response_path: response
+cache_path: cache

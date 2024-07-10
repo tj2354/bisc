@@ -1,0 +1,32 @@
+sudo docker build --no-cache -t at-docker:5000/zhe-bisc .
+sudo docker push at-docker:5000/zhe-bisc
+
+sudo docker run -it --rm --name bisc -p 8888:8888 \
+    --mount type=bind,source=/mnt/mscratch1/Paul,destination=/bisc/response \
+    --mount type=bind,source=/mnt/stor01/stimulation/Paul,destination=/bisc/stimulus \
+    --mount type=bind,source=/mnt/mscratch1/bisc-analysis/Zhe/cache,destination=/bisc/cache \
+    at-docker:5000/zhe-bisc
+
+sudo docker run -it --rm \
+    --mount type=bind,source=/mnt/mscratch1/Paul,destination=/bisc/response \
+    --mount type=bind,source=/mnt/stor01/stimulation/Paul,destination=/bisc/stimulus \
+    --mount type=bind,source=/mnt/mscratch1/bisc-analysis/Zhe/cache,destination=/bisc/cache \
+    at-docker:5000/zhe-bisc python scripts/preprocess.py
+
+sudo docker run -it --rm \
+    --mount type=bind,source=/mnt/mscratch1/Paul,destination=/bisc/response \
+    --mount type=bind,source=/mnt/stor01/stimulation/Paul,destination=/bisc/stimulus \
+    --mount type=bind,source=/mnt/mscratch1/bisc-analysis/Zhe/cache,destination=/bisc/cache \
+    at-docker:5000/zhe-bisc python scripts/fit-rfs.py \
+    -s cache/dot_tiles.yaml
+
+at-zheli@rpl-ucsrhp-p01.ad.bcm.edu
+kubectl get pods -o wide --sort-by=.spec.nodeName
+
+sudo mount -t drvfs V: /mnt/v
+sudo mount -t drvfs Y: /mnt/y
+
+with open('scripts/transforms.yaml', 'w') as f:
+    f.write('- type: remove_mean\n')
+    for freq in np.logspace(np.log10(4), np.log10(512), 36):
+        f.write('- type: morlet\n  freq: {:.2f}\n'.format(freq))

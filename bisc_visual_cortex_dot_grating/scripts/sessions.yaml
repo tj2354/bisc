@@ -1,0 +1,1153 @@
+# 2023-10-02
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3779117949337
+    ephys_start_time: 3779117984382
+    stim_start_time: 3779117994887
+  spath: 2023-10-02_13-59-54/DotMappingExperimentSynched.mat
+  epath: 2023-10-02_13-59-09/2023-10-02_13-59-42/BiscElectrophysiology%d.h5
+  offset: 35060.14639824664
+  slope-1: -5.551115123125783e-16
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3779118712913
+    ephys_start_time: 3779118748550
+    stim_start_time: 3779118765718
+  spath: 2023-10-02_14-12-45/DotMappingExperimentSynched.mat
+  epath: 2023-10-02_14-11-52/2023-10-02_14-12-26/BiscElectrophysiology%d.h5
+  offset: 35652.17849811621
+  slope-1: 1.1102230246251565e-15
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3779120188222
+    ephys_start_time: 3779120216284
+    stim_start_time: 3779120230043
+  spath: 2023-10-02_14-37-10/DotMappingExperimentSynched.mat
+  epath: 2023-10-02_14-36-28/2023-10-02_14-36-54/BiscElectrophysiology%d.h5
+  offset: 28105.86577524629
+  slope-1: -3.3306690738754696e-16
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3779120912738
+    ephys_start_time: 3779120919414
+    stim_start_time: 3779120935764
+  spath: 2023-10-02_14-48-55/DotMappingExperimentSynched.mat
+  epath: 2023-10-02_14-48-32/2023-10-02_14-48-37/BiscElectrophysiology%d.h5
+  offset: 6720.865981213981
+  slope-1: 0.0
+# 2023-10-03
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3779199342065
+    ephys_start_time: 3779199358794
+    stim_start_time: 3779199372829
+  spath: 2023-10-03_12-36-12/DotMappingExperimentSynched.mat
+  epath: 2023-10-03_12-35-41/2023-10-03_12-35-57/BiscElectrophysiology%d.h5
+  offset: 16745.17160456255
+  slope-1: 3.37777075640755e-05
+# 2023-10-04
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3779292928683
+    ephys_start_time: 3779292945175
+    stim_start_time: 3779292974354
+  spath: 2023-10-04_14-36-14/MultDimExperimentSynched.mat
+  epath: 2023-10-04_14-35-28/2023-10-04_14-35-43/BiscElectrophysiology%d.h5
+  offset: 16524.68318078411
+  slope-1: 3.659573825109952e-05
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3779294512093
+    ephys_start_time: 3779294518965
+    stim_start_time: 3779294538477
+  spath: 2023-10-04_15-02-18/MultDimExperimentSynched.mat
+  epath: 2023-10-04_15-01-51/2023-10-04_15-01-57/BiscElectrophysiology%d.h5
+  offset: 6916.679473458789
+  slope-1: 3.573707899096057e-05
+# 2023-10-05
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3779362529070
+    ephys_start_time: 3779362546845
+    stim_start_time: 3779362565441
+  spath: 2023-10-05_09-56-05/MultDimExperimentSynched.mat
+  epath: 2023-10-05_09-55-28/2023-10-05_09-55-41/BiscElectrophysiology%d.h5
+  offset: 17804.42380723986
+  slope-1: -4.889921800810271e-11
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3779364094718
+    ephys_start_time: 3779364116391
+    stim_start_time: 3779364155405
+  spath: 2023-10-05_10-22-35/CenterSurroundExperimentSynched.mat
+  epath: 2023-10-05_10-21-34/2023-10-05_10-21-54/BiscElectrophysiology%d.h5
+  offset: 21714.09044983238
+  slope-1: 3.5385636903084716e-05
+# 2023-10-06
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3779460176291
+    ephys_start_time: 3779460244658
+    stim_start_time: 3779460265318
+  spath: 2023-10-06_13-04-25/DotMappingExperimentSynched.mat
+  epath: 2023-10-06_13-02-56/2023-10-06_13-04-02/BiscElectrophysiology%d.h5
+  offset: 68394.22748290829
+  slope-1: 3.74436690542268e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3779462482745
+    ephys_start_time: 3779462502985
+    stim_start_time: 3779462518779
+  spath: 2023-10-06_13-41-58/DotMappingExperimentSynched.mat
+  epath: 2023-10-06_13-41-22/2023-10-06_13-41-41/BiscElectrophysiology%d.h5
+  offset: 20269.72074769507
+  slope-1: -4.440892098500626e-16
+# 2023-10-10
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3779798111636
+    ephys_start_time: 3779798118084
+    stim_start_time: 3779798132462
+  spath: 2023-10-10_10-55-32/CenterSurroundExperimentSynched.mat
+  epath: 2023-10-10_10-55-11/2023-10-10_10-55-16/BiscElectrophysiology%d.h5
+  offset: 6464.543792459182
+  slope-1: -3.743161725022759e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3779801102756
+    ephys_start_time: 3779801108481
+    stim_start_time: 3779801118144
+  spath: 2023-10-10_11-45-18/CenterSurroundExperimentSynched.mat
+  epath: 2023-10-10_11-45-02/2023-10-10_11-45-06/BiscElectrophysiology%d.h5
+  offset: 5769.539249976631
+  slope-1: 4.465423697475046e-08
+# 2023-10-11
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3779890840755
+    ephys_start_time: 3779890874017
+    stim_start_time: 3779890888318
+  spath: 2023-10-11_12-41-28/CenterSurroundExperimentSynched.mat
+  epath: 2023-10-11_12-40-40/2023-10-11_12-41-08/BiscElectrophysiology%d.h5
+  offset: 33290.53227466904
+  slope-1: -1.2677526473048317e-08
+# 2023-10-13
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3780055669019
+    ephys_start_time: 3780055697644
+    stim_start_time: 3780055723319
+  spath: 2023-10-13_10-28-43/DotMappingExperimentSynched.mat
+  epath: 2023-10-13_10-27-48/2023-10-13_10-28-12/BiscElectrophysiology%d.h5
+  offset: 28654.17413855949
+  slope-1: 3.4697887727030974e-05
+# 2023-10-18
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3780493839586
+    ephys_start_time: 3780493848000
+    stim_start_time: 3780493876719
+  spath: 2023-10-18_12-11-16/CenterSurroundExperimentSynched.mat
+  epath: 2023-10-18_12-10-39/2023-10-18_12-10-46/BiscElectrophysiology%d.h5
+  offset: 8444.754850191526
+  slope-1: -1.8060483331083788e-07
+# 2023-10-24
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3781008731670
+    ephys_start_time: 3781008742222
+    stim_start_time: 3781008748628
+  spath: 2023-10-24_11-12-28/MultDimExperimentSynched.mat
+  epath: 2023-10-24_11-12-11/2023-10-24_11-12-16/BiscElectrophysiology%d.h5
+  offset: 10580.21206485713
+  slope-1: 3.562667509204864e-05
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3781011314319
+    ephys_start_time: 3781011318841
+    stim_start_time: 3781011328398
+  spath: 2023-10-24_11-55-28/MultDimExperimentSynched.mat
+  epath: 2023-10-24_11-55-14/2023-10-24_11-55-17/BiscElectrophysiology%d.h5
+  offset: 4537.683535449207
+  slope-1: 3.587493347390058e-05
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3781015688922
+    ephys_start_time: 3781015695436
+    stim_start_time: 3781015701242
+  spath: 2023-10-24_13-08-21/MultDimExperimentSynched.mat
+  epath: 2023-10-24_13-08-08/2023-10-24_13-08-13/BiscElectrophysiology%d.h5
+  offset: 6530.186165430467
+  slope-1: 3.597744251893076e-05
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3781018044128
+    ephys_start_time: 3781018049557
+    stim_start_time: 3781018055624
+  spath: 2023-10-24_13-47-35/MultDimExperimentSynched.mat
+  epath: 2023-10-24_13-47-23/2023-10-24_13-47-27/BiscElectrophysiology%d.h5
+  offset: 5444.420308424043
+  slope-1: 3.6385880946010474e-05
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3781020889264
+    ephys_start_time: 3781020893715
+    stim_start_time: 3781020900072
+  spath: 2023-10-24_14-35-00/MultDimExperimentSynched.mat
+  epath: 2023-10-24_14-34-49/2023-10-24_14-34-51/BiscElectrophysiology%d.h5
+  offset: 4466.647269906825
+  slope-1: -1.720924247550215e-08
+# 2023-10-25
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3781101178122
+    ephys_start_time: 3781101185584
+    stim_start_time: 3781101196413
+  spath: 2023-10-25_12-53-16/DotMappingExperimentSynched.mat
+  epath: 2023-10-25_12-52-57/2023-10-25_12-53-03/BiscElectrophysiology%d.h5
+  offset: 7480.766231337097
+  slope-1: 3.604681956703715e-05
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3781104041498
+    ephys_start_time: 3781104047245
+    stim_start_time: 3781104069393
+  spath: 2023-10-25_13-41-09/CenterSurroundExperimentSynched.mat
+  epath: 2023-10-25_13-40-41/2023-10-25_13-40-45/BiscElectrophysiology%d.h5
+  offset: 5761.919800724369
+  slope-1: 3.247534396955132e-08
+# 2023-10-26
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3781188437549
+    ephys_start_time: 3781188446312
+    stim_start_time: 3781188465208
+  spath: 2023-10-26_13-07-45/MultDimExperimentSynched.mat
+  epath: 2023-10-26_13-07-17/2023-10-26_13-07-24/BiscElectrophysiology%d.h5
+  offset: 8791.452661462827
+  slope-1: -2.220446049250313e-16
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3781192446507
+    ephys_start_time: 3781192451355
+    stim_start_time: 3781192459237
+  spath: 2023-10-26_14-14-19/MultDimExperimentSynched.mat
+  epath: 2023-10-26_14-14-06/2023-10-26_14-14-09/BiscElectrophysiology%d.h5
+  offset: 4853.635395962978
+  slope-1: 1.2145207950453596e-08
+# 2023-10-30
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3781525703735
+    ephys_start_time: 3781525714534
+    stim_start_time: 3781525739215
+  spath: 2023-10-30_10-48-59/MultDimExperimentSynched.mat
+  epath: 2023-10-30_10-48-22/2023-10-30_10-48-28/BiscElectrophysiology%d.h5
+  offset: 10826.85420349007
+  slope-1: 0.0
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3781529512410
+    ephys_start_time: 3781529518524
+    stim_start_time: 3781529523762
+  spath: 2023-10-30_11-52-03/MultDimExperimentSynched.mat
+  epath: 2023-10-30_11-51-52/2023-10-30_11-51-56/BiscElectrophysiology%d.h5
+  offset: 6135.61354492791
+  slope-1: -2.220446049250313e-16
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3781536918992
+    ephys_start_time: 3781536923419
+    stim_start_time: 3781536929136
+  spath: 2023-10-30_13-55-29/MultDimExperimentSynched.mat
+  epath: 2023-10-30_13-55-18/2023-10-30_13-55-21/BiscElectrophysiology%d.h5
+  offset: 4441.242083122488
+  slope-1: 8.760566050369789e-09
+# 2023-10-31
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3781611029934
+    ephys_start_time: 3781611035677
+    stim_start_time: 3781611043339
+  spath: 2023-10-31_10-30-43/MultDimExperimentSynched.mat
+  epath: 2023-10-31_10-30-29/2023-10-31_10-30-33/BiscElectrophysiology%d.h5
+  offset: 5772.788318026345
+  slope-1: -2.8358351555901606e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3781614943995
+    ephys_start_time: 3781614948637
+    stim_start_time: 3781614954923
+  spath: 2023-10-31_11-35-54/MultDimExperimentSynched.mat
+  epath: 2023-10-31_11-35-43/2023-10-31_11-35-46/BiscElectrophysiology%d.h5
+  offset: 4658.199569607619
+  slope-1: 1.1102230246251565e-15
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3781622772975
+    ephys_start_time: 3781622778408
+    stim_start_time: 3781622785686
+  spath: 2023-10-31_13-46-25/MultDimExperimentSynched.mat
+  epath: 2023-10-31_13-46-12/2023-10-31_13-46-16/BiscElectrophysiology%d.h5
+  offset: 5447.922131640371
+  slope-1: -4.8959822862570945e-09
+# 2023-11-01
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3781696850705
+    ephys_start_time: 3781696858239
+    stim_start_time: 3781696866144
+  spath: 2023-11-01_10-21-06/MultDimExperimentSynched.mat
+  epath: 2023-11-01_10-20-50/2023-11-01_10-20-56/BiscElectrophysiology%d.h5
+  offset: 7562.435005098931
+  slope-1: -6.813507902214688e-06
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3781700701096
+    ephys_start_time: 3781700707701
+    stim_start_time: 3781700714976
+  spath: 2023-11-01_11-25-14/MultDimExperimentSynched.mat
+  epath: 2023-11-01_11-25-00/2023-11-01_11-25-05/BiscElectrophysiology%d.h5
+  offset: 6627.173593633808
+  slope-1: -7.771561172376096e-16
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3781707317162
+    ephys_start_time: 3781707321720
+    stim_start_time: 3781707329024
+  spath: 2023-11-01_13-15-29/DotMappingExperimentSynched.mat
+  epath: 2023-11-01_13-15-16/2023-11-01_13-15-19/BiscElectrophysiology%d.h5
+  offset: 4572.355532371905
+  slope-1: -5.164195071571953e-08
+# 2023-11-03
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3781872850766
+    ephys_start_time: 3781872864278
+    stim_start_time: 3781872877954
+  spath: 2023-11-03_11-14-37/VideoExperimentSynched.mat
+  epath: 2023-11-03_11-14-10/2023-11-03_11-14-18/BiscElectrophysiology%d.h5
+  offset: 13542.4163839838
+  slope-1: -4.440892098500626e-16
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3781877426558
+    ephys_start_time: 3781877431766
+    stim_start_time: 3781877436952
+  spath: 2023-11-03_12-30-36/VideoExperimentSynched.mat
+  epath: 2023-11-03_12-30-26/2023-11-03_12-30-30/BiscElectrophysiology%d.h5
+  offset: 5223.237803143682
+  slope-1: 2.7587550022190044e-09
+# 2023-11-06
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782139491886
+    ephys_start_time: 3782139504001
+    stim_start_time: 3782139514581
+  spath: 2023-11-06_12-18-34/DotMappingExperimentSynched.mat
+  epath: 2023-11-06_12-18-11/2023-11-06_12-18-22/BiscElectrophysiology%d.h5
+  offset: 12120.23918875959
+  slope-1: -8.881784197001252e-16
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782143292827
+    ephys_start_time: 3782143296707
+    stim_start_time: 3782143303334
+  spath: 2023-11-06_13-21-43/DotMappingExperimentSynched.mat
+  epath: 2023-11-06_13-21-32/2023-11-06_13-21-34/BiscElectrophysiology%d.h5
+  offset: 3883.690463917796
+  slope-1: -4.440892098500626e-16
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782148683828
+    ephys_start_time: 3782148688396
+    stim_start_time: 3782148692784
+  spath: 2023-11-06_14-51-32/DotMappingExperimentSynched.mat
+  epath: 2023-11-06_14-51-23/2023-11-06_14-51-26/BiscElectrophysiology%d.h5
+  offset: 4595.682822898962
+  slope-1: 6.366358995535393e-09
+# 2023-11-07
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782216655572
+    ephys_start_time: 3782216668575
+    stim_start_time: 3782216677051
+  spath: 2023-11-07_09-44-37/DotMappingExperimentSynched.mat
+  epath: 2023-11-07_09-44-15/2023-11-07_09-44-26/BiscElectrophysiology%d.h5
+  offset: 13021.51970466692
+  slope-1: -8.06836164546354e-09
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782219889837
+    ephys_start_time: 3782219895514
+    stim_start_time: 3782219900999
+  spath: 2023-11-07_10-38-20/DotMappingExperimentSynched.mat
+  epath: 2023-11-07_10-38-09/2023-11-07_10-38-13/BiscElectrophysiology%d.h5
+  offset: 5695.615467131371
+  slope-1: -1.300924878933074e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782222652138
+    ephys_start_time: 3782222657857
+    stim_start_time: 3782222665910
+  spath: 2023-11-07_11-24-25/DotMappingExperimentSynched.mat
+  epath: 2023-11-07_11-24-11/2023-11-07_11-24-15/BiscElectrophysiology%d.h5
+  offset: 5737.326434392482
+  slope-1: -1.0077207734937588e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782225394938
+    ephys_start_time: 3782225401805
+    stim_start_time: 3782225408024
+  spath: 2023-11-07_12-10-08/DotMappingExperimentSynched.mat
+  epath: 2023-11-07_12-09-54/2023-11-07_12-09-59/BiscElectrophysiology%d.h5
+  offset: 6883.127731216373
+  slope-1: 4.417056054251134e-09
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782227832912
+    ephys_start_time: 3782227838915
+    stim_start_time: 3782227844631
+  spath: 2023-11-07_12-50-44/DotMappingExperimentSynched.mat
+  epath: 2023-11-07_12-50-32/2023-11-07_12-50-36/BiscElectrophysiology%d.h5
+  offset: 6019.751805587672
+  slope-1: -3.3306690738754696e-16
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782231080823
+    ephys_start_time: 3782231085995
+    stim_start_time: 3782231092126
+  spath: 2023-11-07_13-44-52/DotMappingExperimentSynched.mat
+  epath: 2023-11-07_13-44-40/2023-11-07_13-44-43/BiscElectrophysiology%d.h5
+  offset: 5179.630443497561
+  slope-1: 5.413840487022981e-10
+# 2023-11-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782302187077
+    ephys_start_time: 3782302192355
+    stim_start_time: 3782302200811
+  spath: 2023-11-08_09-30-00/DotMappingExperimentSynched.mat
+  epath: 2023-11-08_09-29-46/2023-11-08_09-29-50/BiscElectrophysiology%d.h5
+  offset: 5295.832061290042
+  slope-1: -3.254554625797823e-09
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782305454007
+    ephys_start_time: 3782305461608
+    stim_start_time: 3782305469943
+  spath: 2023-11-08_10-24-29/DotMappingExperimentSynched.mat
+  epath: 2023-11-08_10-24-13/2023-11-08_10-24-19/BiscElectrophysiology%d.h5
+  offset: 7616.008194273105
+  slope-1: 1.7697558973850391e-09
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782309690755
+    ephys_start_time: 3782309697030
+    stim_start_time: 3782309702794
+  spath: 2023-11-08_11-35-02/DotMappingExperimentSynched.mat
+  epath: 2023-11-08_11-34-50/2023-11-08_11-34-55/BiscElectrophysiology%d.h5
+  offset: 6279.975289079128
+  slope-1: 1.3951340083195873e-09
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782313340942
+    ephys_start_time: 3782313345636
+    stim_start_time: 3782313354471
+  spath: 2023-11-08_12-35-54/DotMappingExperimentSynched.mat
+  epath: 2023-11-08_12-35-40/2023-11-08_12-35-43/BiscElectrophysiology%d.h5
+  offset: 4698.473171323072
+  slope-1: -1.4213964338871676e-08
+# 2023-11-09
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782391946517
+    ephys_start_time: 3782391956806
+    stim_start_time: 3782391963275
+  spath: 2023-11-09_10-26-03/DotMappingExperimentSynched.mat
+  epath: 2023-11-09_10-25-46/2023-11-09_10-25-54/BiscElectrophysiology%d.h5
+  offset: 10318.63940046448
+  slope-1: -1.1102230246251565e-16
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782395969893
+    ephys_start_time: 3782395975290
+    stim_start_time: 3782395981636
+  spath: 2023-11-09_11-33-01/DotMappingExperimentSynched.mat
+  epath: 2023-11-09_11-32-49/2023-11-09_11-32-53/BiscElectrophysiology%d.h5
+  offset: 5414.897121478571
+  slope-1: 1.3518784092170222e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782398782621
+    ephys_start_time: 3782398787014
+    stim_start_time: 3782398794942
+  spath: 2023-11-09_12-19-54/DotMappingExperimentSynched.mat
+  epath: 2023-11-09_12-19-42/2023-11-09_12-19-44/BiscElectrophysiology%d.h5
+  offset: 4397.181197630242
+  slope-1: 9.720112048583474e-09
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782401995209
+    ephys_start_time: 3782402000193
+    stim_start_time: 3782402005084
+  spath: 2023-11-09_13-13-25/DotMappingExperimentSynched.mat
+  epath: 2023-11-09_13-13-15/2023-11-09_13-13-17/BiscElectrophysiology%d.h5
+  offset: 4998.785994570702
+  slope-1: 0.0
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782407586668
+    ephys_start_time: 3782407592137
+    stim_start_time: 3782407598059
+  spath: 2023-11-09_14-46-38/DotMappingExperimentSynched.mat
+  epath: 2023-11-09_14-46-26/2023-11-09_14-46-30/BiscElectrophysiology%d.h5
+  offset: 5484.445785223739
+  slope-1: 4.803581998835682e-08
+# 2023-11-10
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782476995123
+    ephys_start_time: 3782477004207
+    stim_start_time: 3782477010200
+  spath: 2023-11-10_10-03-30/DotMappingExperimentSynched.mat
+  epath: 2023-11-10_10-03-14/2023-11-10_10-03-22/BiscElectrophysiology%d.h5
+  offset: 9102.455516094342
+  slope-1: -6.436206456683635e-09
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782480605801
+    ephys_start_time: 3782480610892
+    stim_start_time: 3782480618419
+  spath: 2023-11-10_11-03-38/DotMappingExperimentSynched.mat
+  epath: 2023-11-10_11-03-25/2023-11-10_11-03-28/BiscElectrophysiology%d.h5
+  offset: 5096.260543573881
+  slope-1: -1.1102230246251565e-15
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782488187094
+    ephys_start_time: 3782488192052
+    stim_start_time: 3782488198184
+  spath: 2023-11-10_13-09-58/DotMappingExperimentSynched.mat
+  epath: 2023-11-10_13-09-46/2023-11-10_13-09-49/BiscElectrophysiology%d.h5
+  offset: 4976.284581974614
+  slope-1: 5.2310840104041745e-09
+# 2023-11-13
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782737721134
+    ephys_start_time: 3782737727802
+    stim_start_time: 3782737736638
+  spath: 2023-11-13_10-28-56/DotMappingExperimentSynched.mat
+  epath: 2023-11-13_10-28-40/2023-11-13_10-28-45/BiscElectrophysiology%d.h5
+  offset: 6701.942128755036
+  slope-1: 4.5626781908225666e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782739666903
+    ephys_start_time: 3782739673891
+    stim_start_time: 3782739681014
+  spath: 2023-11-13_11-01-21/DotMappingExperimentSynched.mat
+  epath: 2023-11-13_11-01-06/2023-11-13_11-01-11/BiscElectrophysiology%d.h5
+  offset: 6993.252973311814
+  slope-1: 4.9848849492661884e-09
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782748134958
+    ephys_start_time: 3782748140704
+    stim_start_time: 3782748150834
+  spath: 2023-11-13_13-22-30/MultDimExperimentSynched.mat
+  epath: 2023-11-13_13-22-14/2023-11-13_13-22-18/BiscElectrophysiology%d.h5
+  offset: 5761.126446470967
+  slope-1: -5.551115123125783e-16
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782749371183
+    ephys_start_time: 3782749376541
+    stim_start_time: 3782749383535
+  spath: 2023-11-13_13-43-03/MultDimExperimentSynched.mat
+  epath: 2023-11-13_13-42-51/2023-11-13_13-42-54/BiscElectrophysiology%d.h5
+  offset: 5362.224043011549
+  slope-1: 8.33460700455646e-09
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782750582316
+    ephys_start_time: 3782750586846
+    stim_start_time: 3782750592135
+  spath: 2023-11-13_14-03-12/MultDimExperimentSynched.mat
+  epath: 2023-11-13_14-03-02/2023-11-13_14-03-04/BiscElectrophysiology%d.h5
+  offset: 4545.568191265105
+  slope-1: 1.4108328061368525e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782751721649
+    ephys_start_time: 3782751729005
+    stim_start_time: 3782751735282
+  spath: 2023-11-13_14-22-15/MultDimExperimentSynched.mat
+  epath: 2023-11-13_14-22-01/2023-11-13_14-22-07/BiscElectrophysiology%d.h5
+  offset: 7371.373203813564
+  slope-1: 0.0
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782753063491
+    ephys_start_time: 3782753067491
+    stim_start_time: 3782753071811
+  spath: 2023-11-13_14-44-31/MultDimExperimentSynched.mat
+  epath: 2023-11-13_14-44-23/2023-11-13_14-44-25/BiscElectrophysiology%d.h5
+  offset: 4006.364739582757
+  slope-1: -1.7515211503393857e-11
+# 2023-11-14
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782822216967
+    ephys_start_time: 3782822223367
+    stim_start_time: 3782822235641
+  spath: 2023-11-14_09-57-15/MultDimExperimentSynched.mat
+  epath: 2023-11-14_09-56-56/2023-11-14_09-57-01/BiscElectrophysiology%d.h5
+  offset: 6418.414961587056
+  slope-1: 3.04177039112119e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782823471345
+    ephys_start_time: 3782823476092
+    stim_start_time: 3782823482195
+  spath: 2023-11-14_10-18-02/MultDimExperimentSynched.mat
+  epath: 2023-11-14_10-17-51/2023-11-14_10-17-54/BiscElectrophysiology%d.h5
+  offset: 4762.600696791313
+  slope-1: -8.881784197001252e-16
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782824787354
+    ephys_start_time: 3782824795700
+    stim_start_time: 3782824806105
+  spath: 2023-11-14_10-40-06/MultDimExperimentSynched.mat
+  epath: 2023-11-14_10-39-47/2023-11-14_10-39-53/BiscElectrophysiology%d.h5
+  offset: 8361.814611918875
+  slope-1: -2.220446049250313e-16
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782825841106
+    ephys_start_time: 3782825846148
+    stim_start_time: 3782825852438
+  spath: 2023-11-14_10-57-32/MultDimExperimentSynched.mat
+  epath: 2023-11-14_10-57-20/2023-11-14_10-57-24/BiscElectrophysiology%d.h5
+  offset: 5045.904102719447
+  slope-1: -4.196123948307928e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782826838766
+    ephys_start_time: 3782826843614
+    stim_start_time: 3782826848866
+  spath: 2023-11-14_11-14-08/MultDimExperimentSynched.mat
+  epath: 2023-11-14_11-13-58/2023-11-14_11-14-01/BiscElectrophysiology%d.h5
+  offset: 4853.409946619358
+  slope-1: 1.611157895986537e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782828056920
+    ephys_start_time: 3782828063662
+    stim_start_time: 3782828068780
+  spath: 2023-11-14_11-34-28/MultDimExperimentSynched.mat
+  epath: 2023-11-14_11-34-16/2023-11-14_11-34-21/BiscElectrophysiology%d.h5
+  offset: 6759.972859602422
+  slope-1: 2.194944492828199e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782829370899
+    ephys_start_time: 3782829376587
+    stim_start_time: 3782829381584
+  spath: 2023-11-14_11-56-21/MultDimExperimentSynched.mat
+  epath: 2023-11-14_11-56-10/2023-11-14_11-56-14/BiscElectrophysiology%d.h5
+  offset: 5693.796914264036
+  slope-1: 0.0
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782836991278
+    ephys_start_time: 3782836996114
+    stim_start_time: 3782837008239
+  spath: 2023-11-14_14-03-28/MultDimExperimentSynched.mat
+  epath: 2023-11-14_14-03-11/2023-11-14_14-03-14/BiscElectrophysiology%d.h5
+  offset: 4851.658376684762
+  slope-1: 3.354708510983073e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782839866209
+    ephys_start_time: 3782839870041
+    stim_start_time: 3782839878269
+  spath: 2023-11-14_14-51-18/MultDimExperimentSynched.mat
+  epath: 2023-11-14_14-51-06/2023-11-14_14-51-08/BiscElectrophysiology%d.h5
+  offset: 3847.329485550988
+  slope-1: -2.125758624682561e-08
+# 2023-11-15
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782910097957
+    ephys_start_time: 3782910105110
+    stim_start_time: 3782910117475
+  spath: 2023-11-15_10-21-57/MultDimExperimentSynched.mat
+  epath: 2023-11-15_10-21-37/2023-11-15_10-21-43/BiscElectrophysiology%d.h5
+  offset: 7216.929734114441
+  slope-1: 1.1666690946654512e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782911135981
+    ephys_start_time: 3782911141821
+    stim_start_time: 3782911148384
+  spath: 2023-11-15_10-39-08/MultDimExperimentSynched.mat
+  epath: 2023-11-15_10-38-55/2023-11-15_10-39-00/BiscElectrophysiology%d.h5
+  offset: 5845.265574117133
+  slope-1: 4.158366806450431e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782912162028
+    ephys_start_time: 3782912165207
+    stim_start_time: 3782912171268
+  spath: 2023-11-15_10-56-11/MultDimExperimentSynched.mat
+  epath: 2023-11-15_10-56-00/2023-11-15_10-56-03/BiscElectrophysiology%d.h5
+  offset: 3185.008988803194
+  slope-1: -3.1430907654339535e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782913315265
+    ephys_start_time: 3782913320618
+    stim_start_time: 3782913324142
+  spath: 2023-11-15_11-15-24/MultDimExperimentSynched.mat
+  epath: 2023-11-15_11-15-15/2023-11-15_11-15-18/BiscElectrophysiology%d.h5
+  offset: 5358.102925259504
+  slope-1: 1.1102230246251565e-15
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782914437000
+    ephys_start_time: 3782914442024
+    stim_start_time: 3782914446628
+  spath: 2023-11-15_11-34-06/MultDimExperimentSynched.mat
+  epath: 2023-11-15_11-33-56/2023-11-15_11-34-00/BiscElectrophysiology%d.h5
+  offset: 5028.428674662311
+  slope-1: -3.739880272135565e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782915419292
+    ephys_start_time: 3782915423463
+    stim_start_time: 3782915428795
+  spath: 2023-11-15_11-50-28/MultDimExperimentSynched.mat
+  epath: 2023-11-15_11-50-19/2023-11-15_11-50-21/BiscElectrophysiology%d.h5
+  offset: 4186.282891035487
+  slope-1: 2.787343911236917e-09
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782919540399
+    ephys_start_time: 3782919564642
+    stim_start_time: 3782919572000
+  spath: 2023-11-15_12-59-31/MultDimExperimentSynched.mat
+  epath: 2023-11-15_12-59-00/2023-11-15_12-59-17/BiscElectrophysiology%d.h5
+  offset: 24258.59330210427
+  slope-1: -3.2583483688952697e-09
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782920829162
+    ephys_start_time: 3782920833704
+    stim_start_time: 3782920839683
+  spath: 2023-11-15_13-20-39/MultDimExperimentSynched.mat
+  epath: 2023-11-15_13-20-28/2023-11-15_13-20-31/BiscElectrophysiology%d.h5
+  offset: 4546.992734186351
+  slope-1: 2.5717068918851282e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782922088891
+    ephys_start_time: 3782922094871
+    stim_start_time: 3782922101598
+  spath: 2023-11-15_13-41-41/MultDimExperimentSynched.mat
+  epath: 2023-11-15_13-41-28/2023-11-15_13-41-33/BiscElectrophysiology%d.h5
+  offset: 5985.997476663673
+  slope-1: 7.749642039200921e-09
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782924449356
+    ephys_start_time: 3782924455500
+    stim_start_time: 3782924461117
+  spath: 2023-11-15_14-21-01/MultDimExperimentSynched.mat
+  epath: 2023-11-15_14-20-49/2023-11-15_14-20-53/BiscElectrophysiology%d.h5
+  offset: 6155.982590564759
+  slope-1: 0.0
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782925756441
+    ephys_start_time: 3782925760583
+    stim_start_time: 3782925766897
+  spath: 2023-11-15_14-42-46/MultDimExperimentSynched.mat
+  epath: 2023-11-15_14-42-33/2023-11-15_14-42-38/BiscElectrophysiology%d.h5
+  offset: 4147.434570321697
+  slope-1: -9.505323084191275e-09
+# 2023-11-16
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782997663111
+    ephys_start_time: 3782997671755
+    stim_start_time: 3782997747851
+  spath: 2023-11-16_10-42-27/MultDimExperimentSynched.mat
+  epath: 2023-11-16_10-41-02/2023-11-16_10-41-10/BiscElectrophysiology%d.h5
+  offset: 8661.537143242196
+  slope-1: 1.5863355073975072e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782998819896
+    ephys_start_time: 3782998830966
+    stim_start_time: 3782998873391
+  spath: 2023-11-16_11-01-13/MultDimExperimentSynched.mat
+  epath: 2023-11-16_11-00-19/2023-11-16_11-00-29/BiscElectrophysiology%d.h5
+  offset: 11085.32753868843
+  slope-1: 1.7599186996619665e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3782999854534
+    ephys_start_time: 3782999860574
+    stim_start_time: 3782999876742
+  spath: 2023-11-16_11-17-56/MultDimExperimentSynched.mat
+  epath: 2023-11-16_11-17-34/2023-11-16_11-17-38/BiscElectrophysiology%d.h5
+  offset: 6056.044531473017
+  slope-1: 5.1150895963303356e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3783000760867
+    ephys_start_time: 3783000767609
+    stim_start_time: 3783000787103
+  spath: 2023-11-16_11-33-07/MultDimExperimentSynched.mat
+  epath: 2023-11-16_11-32-40/2023-11-16_11-32-45/BiscElectrophysiology%d.h5
+  offset: 6756.77595229994
+  slope-1: 3.659609704165234e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3783003058075
+    ephys_start_time: 3783003066482
+    stim_start_time: 3783003084419
+  spath: 2023-11-16_12-11-24/CenterSurroundExperimentSynched.mat
+  epath: 2023-11-16_12-10-57/2023-11-16_12-11-04/BiscElectrophysiology%d.h5
+  offset: 8426.504032492172
+  slope-1: -5.60852975173276e-09
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3783008566459
+    ephys_start_time: 3783008573897
+    stim_start_time: 3783008585590
+  spath: 2023-11-16_13-43-05/CenterSurroundExperimentSynched.mat
+  epath: 2023-11-16_13-42-46/2023-11-16_13-42-52/BiscElectrophysiology%d.h5
+  offset: 7454.13679268118
+  slope-1: -4.440892098500626e-16
+# 2023-11-20
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3783343535676
+    ephys_start_time: 3783343569339
+    stim_start_time: 3783343620987
+  spath: 2023-11-20_10-47-00/DotMappingExperimentSynched.mat
+  epath: 2023-11-20_10-45-35/2023-11-20_10-46-07/BiscElectrophysiology%d.h5
+  offset: 33713.43376648251
+  slope-1: -2.816005206796035e-10
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3783347045492
+    ephys_start_time: 3783347066803
+    stim_start_time: 3783347096845
+  spath: 2023-11-20_11-44-56/CenterSurroundExperimentSynched.mat
+  epath: 2023-11-20_11-44-05/2023-11-20_11-44-21/BiscElectrophysiology%d.h5
+  offset: 21329.26347032562
+  slope-1: -1.331576438001747e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3783352485704
+    ephys_start_time: 3783352493839
+    stim_start_time: 3783352515612
+  spath: 2023-11-20_13-15-15/CenterSurroundExperimentSynched.mat
+  epath: 2023-11-20_13-14-45/2023-11-20_13-14-52/BiscElectrophysiology%d.h5
+  offset: 8150.363037573174
+  slope-1: 3.2589810849970036e-09
+# 2023-11-21
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3783427621592
+    ephys_start_time: 3783427640475
+    stim_start_time: 3783427689093
+  spath: 2023-11-21_10-08-09/DotMappingExperimentSynched.mat
+  epath: 2023-11-21_10-07-01/2023-11-21_10-07-14/BiscElectrophysiology%d.h5
+  offset: 18923.53537755064
+  slope-1: 6.2582006243872e-10
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3783429685318
+    ephys_start_time: 3783429691940
+    stim_start_time: 3783429746504
+  spath: 2023-11-21_10-42-26/CenterSurroundExperimentSynched.mat
+  epath: 2023-11-21_10-41-25/2023-11-21_10-41-30/BiscElectrophysiology%d.h5
+  offset: 6637.185223720851
+  slope-1: 3.1699689539976816e-09
+# 2023-11-22
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3783515221952
+    ephys_start_time: 3783515235228
+    stim_start_time: 3783515316096
+  spath: 2023-11-22_10-28-36/CenterSurroundExperimentSynched.mat
+  epath: 2023-11-22_10-27-01/2023-11-22_10-27-13/BiscElectrophysiology%d.h5
+  offset: 13305.82575299311
+  slope-1: -3.438643070285963e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3783520666903
+    ephys_start_time: 3783520674667
+    stim_start_time: 3783520693322
+  spath: 2023-11-22_11-58-13/CenterSurroundExperimentSynched.mat
+  epath: 2023-11-22_11-57-46/2023-11-22_11-57-52/BiscElectrophysiology%d.h5
+  offset: 7780.172862690873
+  slope-1: -8.365724668557561e-09
+# 2023-11-24
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3783688252294
+    ephys_start_time: 3783688263691
+    stim_start_time: 3783688293175
+  spath: 2023-11-24_10-31-33/CenterSurroundExperimentSynched.mat
+  epath: 2023-11-24_10-30-52/2023-11-24_10-31-01/BiscElectrophysiology%d.h5
+  offset: 11449.15756837325
+  slope-1: -9.992007221626409e-16
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3783693826346
+    ephys_start_time: 3783693832890
+    stim_start_time: 3783693855054
+  spath: 2023-11-24_12-04-15/CenterSurroundExperimentSynched.mat
+  epath: 2023-11-24_12-03-46/2023-11-24_12-03-50/BiscElectrophysiology%d.h5
+  offset: 6559.593184029683
+  slope-1: 2.9467950302120016e-09
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3783699009828
+    ephys_start_time: 3783699016293
+    stim_start_time: 3783699035333
+  spath: 2023-11-24_13-30-35/CenterSurroundExperimentSynched.mat
+  epath: 2023-11-24_13-30-09/2023-11-24_13-30-14/BiscElectrophysiology%d.h5
+  offset: 6479.545236412901
+  slope-1: -2.865458759160333e-09
+# 2023-11-27
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3783948834689
+    ephys_start_time: 3783948842238
+    stim_start_time: 3783948870080
+  spath: 2023-11-27_10-54-30/DotMappingExperimentSynched.mat
+  epath: 2023-11-27_10-53-54/2023-11-27_10-54-00/BiscElectrophysiology%d.h5
+  offset: 7579.904405654175
+  slope-1: 0.0
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3783952523192
+    ephys_start_time: 3783952532656
+    stim_start_time: 3783952564587
+  spath: 2023-11-27_11-56-04/CenterSurroundExperimentSynched.mat
+  epath: 2023-11-27_11-55-23/2023-11-27_11-55-30/BiscElectrophysiology%d.h5
+  offset: 9479.618114577606
+  slope-1: 1.1102230246251565e-15
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3783958284752
+    ephys_start_time: 3783958289435
+    stim_start_time: 3783958295341
+  spath: 2023-11-27_13-31-35/CenterSurroundExperimentSynched.mat
+  epath: 2023-11-27_13-31-24/2023-11-27_13-31-26/BiscElectrophysiology%d.h5
+  offset: 4697.937747968361
+  slope-1: -1.1533018984266619e-09
+# 2023-11-28
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3784033277957
+    ephys_start_time: 3784033285216
+    stim_start_time: 3784033296050
+  spath: 2023-11-28_10-21-36/CenterSurroundExperimentSynched.mat
+  epath: 2023-11-28_10-21-17/2023-11-28_10-21-22/BiscElectrophysiology%d.h5
+  offset: 7287.466056173667
+  slope-1: 1.6223008048044107e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3784039200299
+    ephys_start_time: 3784039206359
+    stim_start_time: 3784039212237
+  spath: 2023-11-28_12-00-12/CenterSurroundExperimentSynched.mat
+  epath: 2023-11-28_12-00-00/2023-11-28_12-00-03/BiscElectrophysiology%d.h5
+  offset: 6076.811629469041
+  slope-1: -3.0900125791433197e-09
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3784045976046
+    ephys_start_time: 3784045981796
+    stim_start_time: 3784045986817
+  spath: 2023-11-28_13-53-06/CenterSurroundExperimentSynched.mat
+  epath: 2023-11-28_13-52-55/2023-11-28_13-52-59/BiscElectrophysiology%d.h5
+  offset: 5765.176992408
+  slope-1: 0.0
+# 2023-11-30
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3784204684732
+    ephys_start_time: 3784204692574
+    stim_start_time: 3784204698703
+  spath: 2023-11-30_09-58-18/CenterSurroundExperimentSynched.mat
+  epath: 2023-11-30_09-58-04/2023-11-30_09-58-10/BiscElectrophysiology%d.h5
+  offset: 7872.955862774979
+  slope-1: -2.664060083645836e-10
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3784212137542
+    ephys_start_time: 3784212143625
+    stim_start_time: 3784212149223
+  spath: 2023-11-30_12-02-29/CenterSurroundExperimentSynched.mat
+  epath: 2023-11-30_12-02-17/2023-11-30_12-02-20/BiscElectrophysiology%d.h5
+  offset: 6088.069784497377
+  slope-1: 7.145217084669753e-09
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3784218175543
+    ephys_start_time: 3784218181452
+    stim_start_time: 3784218186730
+  spath: 2023-11-30_13-43-06/CenterSurroundExperimentSynched.mat
+  epath: 2023-11-30_13-42-55/2023-11-30_13-42-58/BiscElectrophysiology%d.h5
+  offset: 5913.257560953964
+  slope-1: -4.440892098500626e-16
+# 2023-12-01
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3784292696931
+    ephys_start_time: 3784292703714
+    stim_start_time: 3784292709324
+  spath: 2023-12-01_10-25-09/CenterSurroundExperimentSynched.mat
+  epath: 2023-12-01_10-24-56/2023-12-01_10-25-01/BiscElectrophysiology%d.h5
+  offset: 6820.740771261044
+  slope-1: 1.0286745011356402e-08
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3784295551930
+    ephys_start_time: 3784295559196
+    stim_start_time: 3784295567943
+  spath: 2023-12-01_11-12-47/CenterSurroundExperimentSynched.mat
+  epath: 2023-12-01_11-12-31/2023-12-01_11-12-37/BiscElectrophysiology%d.h5
+  offset: 7282.140475738794
+  slope-1: 4.190036984041967e-09
+- session:
+    subject_id: 33
+    setup: 2
+    session_start_time: 3784301000943
+    ephys_start_time: 3784301007740
+    stim_start_time: 3784301012391
+  spath: 2023-12-01_12-43-32/CenterSurroundExperimentSynched.mat
+  epath: 2023-12-01_12-43-20/2023-12-01_12-43-24/BiscElectrophysiology%d.h5
+  offset: 6812.516343764495
+  slope-1: -2.220446049250313e-16

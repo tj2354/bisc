@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+bisc.egg-info
+*.pyc
+response
+stimulus
+cache
+figures
