@@ -67,7 +67,7 @@ Files are arranged by their topics
 - **Estimated Time**: Expect each step to take no more than 10-20 minutes on a standard desktop computer with a stable internet connection.
 
 ## Data Availability
-#### Data required for running the scripts are currently available [here](https://www.dropbox.com/scl/fo/fhgj7mtckjfgqkoeejf4v/ADFQwkSYVxvORTzpt1MciTY?rlkey=c3qkmyis3tsmukhbse8j0z7d8&st=kg21ogx4&dl=0). Prior to publication, this data will be migrated to a Zenodo repo with open access.
+#### Data required for running the scripts are currently available [here](https://www.dropbox.com/scl/fo/jwlu060lf0s1vucltd4ye/AA-iy21UtPEzpokDILeVXnA?rlkey=1yl247obxbnwnh92gycrxyk1a&st=znpsilcx&dl=0). Prior to publication, this data will be migrated to a Zenodo repo with open access.
 
 Just like the script directories, data is organized by topics
 ```plaintext

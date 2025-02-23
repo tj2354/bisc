@@ -37,3 +37,5 @@ Please note that t-SNE result can be stochastic
 - `9_tsne_and_lda`: perform t-SNE clustering and build LDA classifier (Fig. 3E and F)
 
 #### Scripts in `./scripts/preprocessing` are used for data pre-processing and are not meant to be executed
+
+#### Scripts in `./scripts/read_nwb` are independent from rest of the analysis. It is a bonus script that provides an example of how to parse and plot raw BISC recordings in the provided NWB format (`/porcine_ssep/sample_nwb_data`). Instruction on how to run this independent script is provided within itself: `bisc_sample_nwb_recording_plot.ipynb` 
