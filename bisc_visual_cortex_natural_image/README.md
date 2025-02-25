@@ -1,4 +1,4 @@
-### 1. Install the package with Docker
+### 1. Install the requirements
 
 ##### Pre-requisites
 - install [**docker**](https://docs.docker.com/get-docker/) and [**docker-compose**](https://docs.docker.com/compose/install/)
