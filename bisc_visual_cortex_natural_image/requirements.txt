@@ -1,4 +1,7 @@
 torch>=1.9.0
 scikit-image==0.19.1
 torchvision>=0.8.1
-git+https://github.com/username/repository.git@interview
+matplotlib>=3.9.2
+pandas
+seaborn
+git+https://github.com/KonstantinWilleke/nnvision.git@interview
