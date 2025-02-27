@@ -1,18 +1,17 @@
-### 1. Install the package with Docker
+### 1. Install the requirements
+- required python version: >=3.8
+- run `pip install -r requirements.txt`
+- for certain parts of the notebook (described in the notebook), a cuda GPU is required (torch with cuda support will be installed in requirements)
 
-##### Pre-requisites
-- install [**docker**](https://docs.docker.com/get-docker/) and [**docker-compose**](https://docs.docker.com/compose/install/)
-- clone the repo via `git clone -b git clone -b bisc_2024 https://github.com/sinzlab/nnvision.git`
+### 2. Download the data
+- Download the associated data
+- to reproduce the plots, 3 tar files are provided:
+  - neuronal_responses.tar
+  - natural_images.tar
+  - model_checkpoints.tar
+- copy these 3 .tar files into `.data/` directory
+- extract the .tar files in the `.data/` directory, by using for example
+  - `tar -xvf neuronal_responses.tar`
 
-
-### **Start Jupyterlab environment**
-- create a `.env` file, on the basis of the `.env_example` 
-- now you can create the docker container:
-```
-cd nnvision/
-docker-compose run -d -p 10101:8888 notebook_server
-```
-to access the container, type in `localhost:10101` in any browser.
-
-
-Example Notebook for recreating the plots can be found under: [**Example_plots**](notebooks/bisc_2024/plot_examples.ipynb)
+### 3. Run the notebook
+Full Notebook for recreating the plots can be found under: [**bisc_nat_images.ipynb**](./bisc_nat_images.ipynb)

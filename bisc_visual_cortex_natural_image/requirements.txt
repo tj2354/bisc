@@ -1,0 +1,9 @@
+torch>=1.9.0
+numpy==1.22.0
+transformers==4.35.2
+scikit-image==0.19.1
+torchvision>=0.8.1
+matplotlib>=3.8.2
+pandas
+seaborn
+git+https://github.com/KonstantinWilleke/nnvision.git@interview
