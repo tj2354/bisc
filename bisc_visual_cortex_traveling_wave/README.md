@@ -88,7 +88,7 @@ Analysis Details
 
 ### **1. Dimensionality Reduction & Resolution Effect Analysis**
 - This analysis explores how reducing the dimensionality of wave data affects interpretability and classification performance.
-- Techniques used: **PCA, UMAP, and t-SNE**.
+- Techniques used: **UMAP**.
 - Investigates how different resolutions affect feature separation and clustering in low-dimensional space.
 - Results help in understanding whether higher resolution improves classification or if lower-dimensional representations capture key information.
 
