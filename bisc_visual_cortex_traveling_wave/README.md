@@ -98,18 +98,6 @@ Analysis Details
 - The hybrid approach combines both benefits, making it well-suited for wave classification.
 - Analysis in `CNNTransformer_Pipline.ipynb` compares performance with baseline models.
 
-### **3. Performance Analysis**
-- Evaluates model performance using **Accuracy, Loss, and AUC-ROC curves**.
-- Examines how resolution affects classification accuracy.
-- Compares CNN-Transformer performance to baseline classifiers (e.g., CNN-only, Transformer-only).
-- Findings suggest that **resolution plays a key role** in classification reliability.
-
-### **4. Key Findings from Resolution Analysis**
-- Higher resolution generally improves classification accuracy but may lead to overfitting.
-- Lower resolution preserves key features but reduces fine-grained detail.
-- Dimensionality reduction techniques (PCA, UMAP) reveal distinct feature clustering at different resolutions.
-- Model performance varies depending on the chosen resolution level, suggesting an **optimal range** for best results.
-
 Configuration
 -------------
 Modify key settings:
@@ -119,4 +107,4 @@ Modify key settings:
 Example Output
 --------------
 - The pipeline prints training progress and evaluation metrics.
-- `CNNTransformer_Pipline.ipynb` and `DimensionalityReduction_and_ResolutionEffect.ipynb` contain visual plots.
+- `CNNTransformer_Pipline.ipynb` and `DimensionalityReduction_and_ResolutionEffect.ipynb` contain visual plots and the supplmetary video.
