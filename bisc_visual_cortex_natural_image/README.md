@@ -1,5 +1,5 @@
 ### 1. Install the requirements
-- required python version: >=3.8
+- required python version: 3.8 or 3.9
 - run `pip install -r requirements.txt`
 - for certain parts of the notebook (described in the notebook), a cuda GPU is required (torch with cuda support will be installed in requirements)
 
