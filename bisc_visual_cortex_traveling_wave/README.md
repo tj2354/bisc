@@ -8,7 +8,7 @@ Full Notebook for running the traveling waves analysis is TW_Code.ipynb. Install
 ### 3. Supporting functions for traveling wave analysis 
 Supporting functions to run the notebook TW_Code.ipynb are in par_funcs.py. The core funciton here is par_funcs.circ_lin_regress, which implements the circular-linear regression model. 
 
-The output from the traveling waves analysis were given to the dimeinoality reduction analysis and decoding analysis.
+The output from the traveling waves analysis were given to the dimensionality reduction analysis and decoding analysis.
 ### 4. WaveCNN Transformer Pipeline & Dimensionality Reduction Analysis
 Overview
 --------
