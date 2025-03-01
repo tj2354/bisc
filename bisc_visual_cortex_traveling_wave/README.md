@@ -30,11 +30,10 @@ Prerequisites:
 - PyTorch
 - NumPy
 - Matplotlib
-- Jupyter Notebook
 
 To install dependencies, run:
 ```bash
-pip install torch numpy matplotlib jupyter
+pip install torch numpy matplotlib 
 ```
 
 File Structure
