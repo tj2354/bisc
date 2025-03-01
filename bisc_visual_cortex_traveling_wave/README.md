@@ -14,12 +14,12 @@ Overview
 --------
 This repository focuses on two key aspects:
 
-1. **Hybrid-Decoder Model (CNN-Transformer Pipeline)**
+. **Hybrid-Decoder Model (CNN-Transformer Pipeline)**
    - Implements a **CNN-Transformer hybrid model** for classifying wave data.
    - Uses CNN for spatial feature extraction and a Transformer for sequence processing.
    - Trains and evaluates the model with provided datasets.
 
-2. **Dimensionality Reduction & Resolution Effect Analysis**
+. **Dimensionality Reduction & Resolution Effect Analysis**
    - Explores the impact of **resolution on neural data representation**.
    - Utilizes **dimensionality reduction techniques** to analyze the structure of wave data.
    - Provides insights into the relationship between resolution and classification accuracy.
