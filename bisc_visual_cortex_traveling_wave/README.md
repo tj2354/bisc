@@ -110,12 +110,6 @@ Analysis Details
 - Dimensionality reduction techniques (PCA, UMAP) reveal distinct feature clustering at different resolutions.
 - Model performance varies depending on the chosen resolution level, suggesting an **optimal range** for best results.
 
-### **5. How to Interpret Analysis Results**
-- **CNN-Transformer training loss** should decrease over epochs, with validation accuracy stabilizing.
-- **Dimensionality reduction plots**: Clusters indicate well-separated features, while overlapping suggests lower discriminability.
-- **Resolution effect graphs** show how classification accuracy varies across different input resolutions.
-- **t-SNE/UMAP visualizations** should reveal meaningful structure in lower-dimensional space.
-
 Configuration
 -------------
 Modify key settings:
