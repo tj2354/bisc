@@ -23,5 +23,7 @@ Refer to the directory ```bisc_visual_cortex_traveling_wave``` for analysis on t
 Refer to the directory ```bisc_visual_cortex_natural_image``` for analysis on the following topics:
 - NHP visual cortex recordings with natural image stimuli (Extended Data Fig. 2)
 
+Data required for running the scripts are available [here](https://www.dropbox.com/scl/fo/q1tgh5xaw0do11uxdixdo/AIb4-IeRnzx33GsMNTgLhfU?rlkey=ryr7abwgmstmhb7m6vxebidh7&st=rw7h2sye&dl=0).
+
 ## License
 This repository is made available under a [CC-BY-NC-ND 4.0 International license](https://creativecommons.org/licenses/by-nc-nd/4.0/).
