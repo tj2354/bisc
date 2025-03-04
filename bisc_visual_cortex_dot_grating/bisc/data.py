@@ -183,6 +183,7 @@ def get_stim(session: dict) -> tuple[Array, Array, dict[str, Union[int, Array]]]
     return onsets, offsets, stim_params
 
 
+@cached(CACHE_PATH)
 def get_num_trials(session: dict) -> int:
     r"""Returns number of trials for analysis."""
     *_, stim_params = get_stim(session)
@@ -206,6 +207,7 @@ def _get_ephys_file(session: dict) -> h5py.File:
     return f
 
 
+@cached(CACHE_PATH)
 def get_fs(session: dict) -> float:
     r"""Returns sampling frequency in Hz."""
     with _get_ephys_file(session) as f:
@@ -213,6 +215,7 @@ def get_fs(session: dict) -> float:
     return fs
 
 
+@cached(CACHE_PATH)
 def get_num_channels(session: dict) -> int:
     r"""Returns number of channels."""
     with _get_ephys_file(session) as f:

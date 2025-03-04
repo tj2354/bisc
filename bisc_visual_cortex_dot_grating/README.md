@@ -6,7 +6,15 @@ Spatial-temporal receptive fields of each BISC channel
 
 ## Requirements
 
-[`jarvis>=0.7`](https://github.com/lizhe07/jarvis/releases/tag/v0.7.0)
+`datajoint`, `h5py`, [`jarvis>=0.7`](https://github.com/lizhe07/jarvis/releases/tag/v0.7.0)
+
+## Installation
+
+It is recommended to install the `bisc` package in editable mode by running the script at current
+folder.
+```bash
+pip install -e .
+```
 
 ## Data preparation
 By default, the raw stimulus data are stored in `'stimulus'` folder, the raw response data are
@@ -47,8 +55,15 @@ and S14 are created with `orientation-classification.ipynb`. Figure S15 is creat
 `orientation-regression.ipynb`.
 
 Figure 6C-E are created with `receptive-field-analysis.ipynb`. Figure 6F is created with
-`cortical-scaling-sparse.ipynb`. Figure 6G is created with `plot-dense-rfs-filtered.ipynb` using
+`cortical-scaling.ipynb`. Figure 6G is created with `plot-dense-rfs-filtered.ipynb` using
 data in `cache/RF.fits_dense.zip`.
 
-Figure S16 is created with `mixture-fit.ipynb` and `plot-dense-rfs-raw.ipynb`. Parametric fit of all
-channels are saved in `mixture.fit.zip` shared via this [link](https://www.dropbox.com/scl/fo/yndmns9axkiu4cs4okwpu/h?rlkey=hnurd613m22kcf8ffmnxbl2va&dl=0).
+Figure S16 is created with `mixture-fit.ipynb` and `plot-dense-rfs-raw.ipynb`.
+
+Some notebooks need to have raw stimulus and response data to run, which is too large to be shared
+directly. We have saved those data on Globus storage and will share access when requested.
+- `filtered-response.ipynb`
+- `orientation-classification.ipynb`
+- `orientation-regression.ipynb`
+- `mixture-fit.ipynb`
+- `plot-dense-rfs-raw.ipynb`

@@ -11,5 +11,5 @@ setup(
     python_requires='>=3.9',
     packages=find_packages(),
     package_data={'bisc': ['VERSION.txt']},
-    install_requires=['h5py', 'jarvis>=0.7'],
+    install_requires=['datajoint', 'h5py', 'jarvis>=0.7'],
 )
